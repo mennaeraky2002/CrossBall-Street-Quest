@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(86,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(93,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(100,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(107,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(113,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(818,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(826,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(834,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(845,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(851,21): warning C4018: '<=': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\HP\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

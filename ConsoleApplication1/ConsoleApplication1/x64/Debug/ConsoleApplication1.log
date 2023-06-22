@@ -1,0 +1,18 @@
+﻿ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutPositionWindow referenced in function "void __cdecl special_key(int,int,int)" (?special_key@@YAXHHH@Z)
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutReshapeWindow referenced in function "void __cdecl special_key(int,int,int)" (?special_key@@YAXHHH@Z)
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutFullScreen referenced in function "void __cdecl special_key(int,int,int)" (?special_key@@YAXHHH@Z)
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol __imp_glutSolidCone referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\HP\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1120: 16 unresolved externals
