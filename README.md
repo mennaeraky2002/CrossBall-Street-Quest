@@ -1,2 +1,3 @@
 # CrossBall-Street-Quest
 "CrossBall: Street Quest" is an exciting game built with OpenGL that challenges players to guide a ball through a bustling street. In this immersive gaming experience, players must navigate the ball across a series of busy intersections, avoiding obstacles and dangers along the way.
+The game features multiple levels, each offering increasing difficulty and introducing new challenges. Players must demonstrate quick reflexes, strategic planning, and precision to successfully guide the ball through the intricate web of traffic and obstacles. Collecting power-ups and bonuses scattered throughout the street adds an extra layer of excitement and rewards.
